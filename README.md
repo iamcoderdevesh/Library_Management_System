@@ -6,7 +6,9 @@ Library Management System is a desktop application which refers to library syste
 
 ## Technologies Used
 
-[![My Skills](https://skillicons.dev/icons?i=vb.net,mssql&theme=dark)](https://github.com/iamcoderdevesh)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,visualstudio&theme=dark)](https://github.com/iamcoderdevesh)
+
+- SQL SERVER 
 
 ## Screenshots
 
