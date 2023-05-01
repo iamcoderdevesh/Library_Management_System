@@ -28,16 +28,16 @@ Library Management System is a desktop application which refers to library syste
 ![App Screenshot](https://intensional-chair.000webhostapp.com/Library_Management_System/Screenshot%20(510).png)
 
 - Add Books Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/Fees_Management_System/Screenshot%20(511).png)
+![App Screenshot](https://intensional-chair.000webhostapp.com/Library_Management_System/Screenshot%20(511).png)
 
 - Issue Books Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/Fees_Management_System/Screenshot%20(512).png)
+![App Screenshot](https://intensional-chair.000webhostapp.com/Library_Management_System/Screenshot%20(512).png)
 
 - Return Books Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/Fees_Management_System/Screenshot%20(513).png)
+![App Screenshot](https://intensional-chair.000webhostapp.com/Library_Management_System/Screenshot%20(513).png)
 
 - Search Books Page
-![App Screenshot](https://intensional-chair.000webhostapp.com/Fees_Management_System/Screenshot%20(514).png)
+![App Screenshot](https://intensional-chair.000webhostapp.com/Library_Management_System/Screenshot%20(514).png)
 
 
 ## 🚀 About Me
